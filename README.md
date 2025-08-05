@@ -15,6 +15,8 @@ A Python-based automation tool that monitors a designated folder for incoming in
   - 3️⃣ 🤖 Build an AI Agent From Scratch in Python
 A hands-on project focused on designing and implementing a fully functional AI agent entirely from scratch using Python. The agent leverages AI techniques to process information and execute intelligent decision-making.
 
+   - 📌 All three projects will be completed by the end of August 2025.
+
 - 🌱 I’m currently learning...
   - ... anything programming-related that I can get my hands on, with a strong focus on AI, as I believe it will be the main driving force in the years ahead.
     
