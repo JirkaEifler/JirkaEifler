@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jiří Eifler
 
-I’m a Python developer in training with a strong passion for technology and Artificial Intelligence.
+I’m a Python developer in training with a strong passion for technology and AI.
 Currently completing a 7‑month Python Developer program, I’m working on my final project along with several personal projects that combine backend development and AI experimentation. I’m driven by curiosity, quick learning, and the desire to turn ideas into working solutions.
 
 
