@@ -7,10 +7,10 @@ I’m driven by curiosity, quick learning, and the desire to turn ideas into wor
 - 🛠 I’m currently working on...
    
   - 1️⃣ 🗒 MyPlanner (Django Web App)
-A personal task-management app built with Django and PostgreSQL.
-	•	Create and organize tasks into multiple list types (Daily, Weekly, Shopping, Payments, Birthdays & Events, Someday).
-	•	Features: tags, priorities, due dates, reminders, optional events, and comments.
-	•	Provides both classic HTML views and a REST API for future integrations.
+	- A personal task-management app built with Django and PostgreSQL.
+	- Create and organize tasks into multiple list types (Daily, Weekly, Shopping, Payments, Birthdays & Events, Someday).
+	- Features: tags, priorities, due dates, reminders, optional events, and comments.
+	- Provides both classic HTML views and a REST API for future integrations.
   
    The application provides both classic HTML views for everyday use and a REST API for potential integration with other platforms or future mobile/React clients.
 
