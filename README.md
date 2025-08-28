@@ -6,11 +6,11 @@ I’m driven by curiosity, quick learning, and the desire to turn ideas into wor
 
 - 🛠 I’m currently working on...
    
-  - 1️⃣ 🗒 **MyPlanner (Django Web App)** – A personal task and event management application built with Django and PostgreSQL.  
-    It allows users to create, edit, and track various types of to-do lists such as Daily Tasks, Weekly Tasks, Shopping Lists, Payment Reminders, Birthdays & Events, and Someday Tasks.  
-    Features include task categorization, due dates, reminders, user authentication, and a clean HTML interface.  
-    The app supports both list-based and calendar-based views to help users stay organized.  
-    The application offers both HTML views and a REST API for flexible access and integration.
+  - 1️⃣ 🗒 **MyPlanner (Django Web App)** – A personal task-management application built with Django and PostgreSQL.
+   It allows users to create, edit, and track different types of to-do lists such as Daily Tasks, Weekly Tasks, Shopping Lists, Payment Reminders, Birthdays & Events, and Someday Tasks.
+   Features include task categorization with tags, due dates, priorities, reminders, optional single events (start–end time), user authentication, and a clean HTML interface.
+   Each task can also have comments, making collaboration and note-taking easier.
+   The application provides both classic HTML views for everyday use and a REST API for potential integration with other platforms or future mobile/React clients.
 
   - 2️⃣ 📄 **Automated Invoice Data Extractor** - A Python-based automation tool that monitors a designated folder for incoming invoices.  
     When a new file is added, it automatically reads and converts the content to text, extracts predefined attributes, and exports them into a neatly formatted Excel spreadsheet.
