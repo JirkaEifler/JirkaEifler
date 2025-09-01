@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Jiří Eifler
 
-I’m a Python developer with a strong passion for technology and AI.  
-I have completed a 7-month Python Developer program, including several projects (listed below).  
-I’m driven by curiosity, quick learning, and the desire to turn ideas into working solutions.
+Enthusiastic Python developer passionate about technology and AI. Completed a 7-month intensive program and built several projects (see below). Curious by nature, quick to learn, and motivated to transform ideas into practical solutions.
 
 - 🛠 Recently, I have completed…
    
